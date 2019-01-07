@@ -1,5 +1,5 @@
 {
-  "name": "starwars-name",
+  "name": "bp-starwars-name",
   "version": "1.0.0",
   "description": "Get random star wars names",
   "main": "src/index.js",
